@@ -1,5 +1,7 @@
 <h3 align="center">A passionat flutter devloper from surat</h3>
 
+<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/74038190/264141683-8aa99f6c-267d-4977-9cd3-1a4c11675863.gif"	>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=naresh6358&label=Profile%20views&color=0e75b6&style=flat" alt="naresh6358" /> </p>
 
 - 🔭 I’m currently working on **Master in Flutter Devlopment**
